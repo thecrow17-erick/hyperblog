@@ -54,4 +54,14 @@ body
     padding:0 0 0 1em ;
     font-weight: normal;
     font-size: 0.8em;
+<<<<<<< HEAD
+=======
+
+}
+.footer1{
+    background: #777;
+    color: white;
+    text-align: center;
+    padding: 0,5em;
+>>>>>>> footer
 }
